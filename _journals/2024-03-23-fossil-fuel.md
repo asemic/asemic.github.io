@@ -2,6 +2,7 @@
 published: true
 title: fossil fuel
 layout: post
+published: false
 ---
 
 and again, i'm digging / for the hand around my neck / for those mud-blind eyes / for that tasteless thing to chew / and swallow / <br>
