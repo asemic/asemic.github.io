@@ -19,6 +19,7 @@ hands wandering silent / for the hem of my skirt / for bitten pillow / for bitte
 <br>
 for the kneeling, writhing child at the center of the earth.
  -->
+ <p style="line-height: 0.8;">
 and again, i’m digging / for the hand  
 <br>around my neck / for those mud-  
 <br>blind eyes / for that tasteless thing  
@@ -50,3 +51,4 @@ and again, i’m digging / for the hand
 <br>
 <br>for the kneeling, writhing child  
 <br>at the center of the earth.
+</p>
