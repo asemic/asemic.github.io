@@ -15,9 +15,9 @@ title: About
 <br>
 Hi, I'm Sunny (she/her)! I'm a trans Filipina writer interested in soft words and softer love. I write about the body — the anatomical body, the transgendered body, the loving body — through poetry and memoir. <br><br>
 
-Born and raised in Illinois, I'm now based in Queens, NY and am currently a third-year medical student pursuing trans healthcare.<br><br>
+Born and raised in Illinois, I'm now based in Queens, NY and am currently a third-year medical student pursuing trans healthcare. In 2023, I was named a Brooklyn Poets Fellow; I'm now an editor for Narrateur, our medical school's literary magazine. <br><br>
 
-I graduated from Washington University in St. Louis, majoring in biochemistry, and minoring in creative writing and Japanese. I was named a Brooklyn Poets Fellow in 2023, and I'm an editor for Narrateur, our medical school's literary magazine. When I'm not cramming for exams, I enjoy shooting film, thrifting dresses, and riding the New York City subway!<br><br>
+When I'm not cramming for exams, I enjoy shooting film, reading tarot cards, and riding the New York City subway!<br><br>
 	<li>☀️</li><br>
 	<li><i>let's talk!</i></li>
 <li><a href="https://www.instagram.com/thedizonmustard/">instagram</a> |
