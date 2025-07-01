@@ -19,7 +19,7 @@ hands wandering silent / for the hem of my skirt / for bitten pillow / for bitte
 <br>
 for the kneeling, writhing child at the center of the earth.
  -->
- <p style="line-height: 1.4;">
+ <p style="line-height: 1.5;">
 and again, i’m digging / for the hand  
 <br>around my neck / for those mud-  
 <br>blind eyes / for that tasteless thing  
@@ -38,7 +38,7 @@ and again, i’m digging / for the hand
 <br>school uniform and tennis shoes  
 <br>standing in the pulpit / for feet sunken  
 <br>into the lake’s muddy sand / for gravel  
-<br>\-scarred hands / for 
+<br>-scarred hands / for 
 <br>
 <br>rocks pelted at my back / i’m digging,   
 <br>parched-tongue, for all-eyes-on-me   
