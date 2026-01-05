@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="intro">
+
+<h2>Albums</h2>
+<h4>we are under construction...!</h4>
+
+</div>
+
+
+{% for x in site.albums %}
+  	{% assign folder_path = x.url | split: "/"%}
+  	{% assign folder_name = folder_path[2]%}
+
+    <a href="{{ site.baseurl }}{{ x.url }}" style="font-weight: 500;font-size:120%;text-decoration:none;"> {{ x.title }}</a>
+    <!-- <span style="font-weight: 400;font-size:80%;opacity:80%;"> {{ x.date | date:"%B %-d, %Y" }}</span> -->
+    <br>
+
+{% endfor %}

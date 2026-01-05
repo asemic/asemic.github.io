@@ -63,6 +63,9 @@ collections:
   journals:
     output: true
     permalink: /journal/:name
+  albums:
+    output: true
+    permalink: /albums/:name
   
 defaults:
   -
@@ -105,3 +108,9 @@ defaults:
       type: "scrapbook"
     values:
       layout: "scrapbook"
+  -
+    scope:
+      path: ""
+      type: "albums"
+    values:
+      layout: "albums"    
