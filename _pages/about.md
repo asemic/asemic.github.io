@@ -18,11 +18,10 @@ Hi, I'm Sunny! I'm a trans Filipina poet and photographer.<br><br>
 Born and raised in Illinois, I'm now based in Brooklyn, NY and am currently a third-year medical student pursuing trans healthcare. In 2023, I was named a Brooklyn Poets Fellow; I'm now an editor for Narrateur, our medical school's literary magazine. <br><br>
 
 When I'm not cramming for exams, I enjoy shooting film, reading tarot cards, and riding the New York City subway!<br><br>
-	<li><center>☀️</li><br>
-	<li><i>pronouns: she/her/hers</i></li>
-<li><a href="https://www.are.na/sunny/">are.na</a></li>
-<li><a href="mailto:sunnygdizon@gmail.com">sunnygdizon@gmail.com</a> </li>
-</center>
+	<li><center>☀️</center></li><br>
+	<li><center><i>pronouns: she/her/hers</i></center></li>
+<li><center><a href="https://www.are.na/sunny/">are.na</a></center></li>
+<li><center><a href="mailto:sunnygdizon@gmail.com">sunnygdizon@gmail.com</a></center></li>
 </ul> </div> 
 
 <hr>
