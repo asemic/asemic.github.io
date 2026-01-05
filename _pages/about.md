@@ -9,7 +9,7 @@ title: About
 ![me](/assets/img/bg_1.jpg) -->
 
 <div class="biolist">
-	<center>
+
 <ul style="list-style-type: none; font-size:90%">
 	<li>☀️</li>
 <br>
@@ -23,7 +23,7 @@ When I'm not cramming for exams, I enjoy shooting film, reading tarot cards, and
 <li><a href="https://www.are.na/sunny/">are.na</a></li>
 <li><a href="mailto:sunnygdizon@gmail.com">sunnygdizon@gmail.com</a> </li>
 
-</ul> </center> </div> 
+</ul> </div> 
 
 <hr>
 
