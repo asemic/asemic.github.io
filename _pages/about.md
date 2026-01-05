@@ -20,7 +20,7 @@ Born and raised in Illinois, I'm now based in Queens, NY and am currently a thir
 When I'm not cramming for exams, I enjoy shooting film, reading tarot cards, and riding the New York City subway!<br><br>
 	<li>☀️</li><br>
 	<li><i>pronouns: she/her/hers</i></li>
-<li><a href="https://www.are.na/sunny/">are.na</a> | sunnygdizon@gmail.com </li>
+<li><a href="https://www.are.na/sunny/">are.na</a> | <a href="mailto:sunnygdizon@gmail.com">sunnygdizon@gmail.com</a> </li>
 
 </ul> </center> </div> 
 
