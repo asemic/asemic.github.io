@@ -5,17 +5,58 @@ layout: default
 <div class="intro">
 
 <h2>Albums</h2>
-<h4>we are under construction...!</h4>
+<!-- <h4>we are under construction...!</h4> -->
 
 </div>
 
+<img src="/assets/img/scrapbook/01.JPG">
+
+
 
 {% for x in site.albums %}
-  	{% assign folder_path = x.url | split: "/"%}
-  	{% assign folder_name = folder_path[2]%}
 
-    <a href="{{ site.baseurl }}{{ x.url }}" style="font-weight: 500;font-size:120%;text-decoration:none;"> {{ x.title }}</a>
+
+    <!-- these are unused variables, btw.
+  	{% assign folder_path = x.url | split: "/"%}
+  	{% assign folder_name = folder_path[2]%} -->
+
+    <!-- <a href="{{ site.baseurl }}{{ x.url }}" style="font-weight: 500;font-size:120%;text-decoration:underline;"> {{ x.title }}</a> -->
     <!-- <span style="font-weight: 400;font-size:80%;opacity:80%;"> {{ x.date | date:"%B %-d, %Y" }}</span> -->
+
+    {% assign counter = 0 %}
+ 
+    {% for image in site.static_files %}
+        {% if image.path contains x.album_path and counter == 0 %}
+        <a href="{{ site.baseurl }}{{ x.url }}" style="text-decoration-color:white;">
+            <div style="    color: white;
+                            background-image: url('{{ site.baseurl }}{{ image.path }}'); 
+                            height: 200px; 
+                            line-height: 200px;
+                            width: 100%;
+                            background-repeat: no-repeat;
+                            background-size: cover;
+                            background-position: center;">
+                            <u style="  font-weight: 500;
+                                        font-size:130%;
+                                        text-decoration:underline;
+                                        margin-left:10%;
+                                        text-shadow: 0em 0em 10px black">                                         
+                                {{ x.title }}</u> 
+            </div>
+        </a>
+
+            {% assign counter = counter | plus: 1 %}
+        {% endif %}
+    {% endfor %}
+
     <br>
 
 {% endfor %}
+
+
+
+<div class="inline_box" style="text-align:center;">
+camera: Olympus OM10, Zuiko 50mm 1.8<br>
+film: portra 400 and fuji 200<br>
+more of my work <a href="https://www.are.na/sunny/film-0p348jfwjmu">here</a>!
+</div>

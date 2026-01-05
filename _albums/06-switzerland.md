@@ -1,7 +1,7 @@
 ---
 published: true
-title: 2025
+title: switzerland
 layout: album
 published: true
-album_path: "/2025"
+album_path: "/switzerland"
 ---

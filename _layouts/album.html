@@ -3,14 +3,25 @@ title: Album
 layout: default
 ---
 
+<head>
+    <style>
+        .body {
+            padding: -10rem; 
+/*            this doesn't work*/ 
+        }
+    </style>
+</head>
+<body>
+
 <h1>{{page.title}}</h1>
 <!-- <h2>Album path: {{page.album_path}}</h2> -->
 
 {{content}}
 
 {% for image in site.static_files %}
-    {% if image.path contains {{page.album_path}} %}
+    {% if image.path contains page.album_path %}
         <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
     {% endif %}
 {% endfor %}
 
+</body>

@@ -1,7 +1,7 @@
 ---
 published: true
-title: 2024
+title: tokyo and kyoto
 layout: album
 published: true
-album_path: "/2024"
+album_path: "/tokyo"
 ---
