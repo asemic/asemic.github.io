@@ -1,7 +1,7 @@
 ---
 published: true
-title: tokyo
+title: friends
 layout: album
 published: true
-album_path: "/tokyo"
+album_path: "/friends"
 ---

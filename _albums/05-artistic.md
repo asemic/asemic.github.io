@@ -1,6 +1,6 @@
 ---
 published: true
-title: artistic
+title: miscellaneous
 layout: album
 published: true
 album_path: "/artistic"
