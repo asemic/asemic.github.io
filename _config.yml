@@ -10,16 +10,15 @@ title: Sunny
 description: writing
 logo: 
 image: 
-twitter: ronaldsvilcins  
+twitter: hello  
 twitter:
-  username: ronaldsvilcins
-  creator: ronaldsvilcins
+  username: hello
+  creator: hello
   card: summary
 social:
-  name: Ronalds Vilcins
+  name: hello
   links:
     - https://twitter.com/#
-    - https://www.dribbble.com/#
     - https://github.com/#
     - https://codepen.io/#
   
@@ -66,6 +65,12 @@ collections:
   albums:
     output: true
     permalink: /albums/:name
+  diaries:
+    output: true
+    permalink: /diary/:name
+  diary_password:
+    output: true
+    permalink: /diary_password/:name
   
 defaults:
   -
@@ -114,3 +119,15 @@ defaults:
       type: "albums"
     values:
       layout: "albums"    
+  -
+    scope:
+      path: ""
+      type: "diaries"
+    values:
+      layout: "diaries"
+  -
+    scope:
+      path: ""
+      type: "diary_password"
+    values:
+      layout: "diary_password"
