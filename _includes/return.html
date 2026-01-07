@@ -1,0 +1,39 @@
+<br>
+<!-- {{ page.url }} -->
+<!-- {% assign parent_urls = page.url | split: "/"%} -->
+<!-- {% assign parent_url = parent_urls[1] %} -->
+<!-- 
+<br>
+Here is parent_url: {{ parent_url }}
+<br>
+Here is site.url: {{ site.url }}
+<br>
+Here are them concatenated: {{ site.url | append: "/"}}{{ parent_url }}
+<br> -->
+<!-- <a href="{{ site.url | append: "/"}}{{ parent_url }}">return...</a>
+
+{% if page.previous %}
+<a href="{{ page.previous.url }}">previous...</a>
+{% endif %}
+
+{% if page.next %}
+<a href="{{ page.next.url }}">next...</a>
+{% endif %} -->
+
+<table style="
+  width: 100%;
+  table-layout: fixed; ">
+  <tr>
+    <th>{% if page.previous %}
+<a href="{{ page.previous.url }}">previous</a>
+{% endif %}</th>
+    <th><a href="{{ site.url | append: "/"}}{{ parent_url }}">return</a></th>
+    <th>{% if page.next %}
+<a href="{{ page.next.url }}">next</a>
+{% endif %}</th>
+  </tr>
+</table>
+
+</body>
+</html>
+

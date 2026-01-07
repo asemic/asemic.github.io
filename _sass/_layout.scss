@@ -135,7 +135,7 @@ header, main {
 
 .post {
 	background: white;
-	padding: 2rem 3rem;
+	// padding: 2rem 3rem;
 	-webkit-box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
   box-shadow: 0 0.75rem 1.5rem rgba(18, 38, 63, 0.03);
 	line-height: 160%;
@@ -170,11 +170,16 @@ table {
     width: 100%;
 
     tr {
-        border-bottom: 1px solid black;
+        border-bottom: 0px solid black;
     }
 
     td {
         padding: 0.5rem;
+    }
+
+    th {
+        text-align: center; 
+        font-weight: 400;
     }
 }
 
@@ -225,7 +230,6 @@ footer {
     margin: 1rem 0;
     text-align: center;
     opacity: 60%;
-    font-style: italic;
 }
 
 // boxes

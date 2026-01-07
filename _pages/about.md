@@ -8,7 +8,7 @@ title: About
 <!-- 
 ![me](/assets/img/bg_1.jpg) -->
 
-<div class="biolist">
+<div class="biolist" style="padding: 2em 3em">
 
 <ul style="list-style-type: none; font-size:90%">
 	<li><center>☀️</center></li>
