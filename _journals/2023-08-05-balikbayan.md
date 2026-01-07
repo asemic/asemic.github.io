@@ -1,6 +1,6 @@
 ---
 published: true
-title: balikbayan, or, what i think about when my mother cries
+title: balikbayan
 layout: post
 ---
 
