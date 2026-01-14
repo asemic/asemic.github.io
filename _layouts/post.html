@@ -2,6 +2,10 @@
 layout: default
 ---
 
+
+<body>
+
+
 <article role="article" class="post">
 	<div class="post-meta">
   <h1>{{ page.title }}</h1>
@@ -9,9 +13,10 @@ layout: default
   {{ page.date | date: "%B %-d, %Y" }}</span> 
   <!-- <span style="float:right;">{% include readtime.html %}</span></p> -->
 	</div>
-  <br>
+  <br> <a style="font-size:0.77em;line-height: 1.5;">
+  <!-- <br> <a style="font-size:0.77em; padding-left:2em; text-indent:-2em;"> -->
   {{ content }}
-
+  </a>
   <br>
   <p>
       {% for tag in page.tags %}
@@ -22,3 +27,4 @@ layout: default
  {% include return.html %}
 </article>
 
+</body>

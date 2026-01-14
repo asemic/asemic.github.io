@@ -9,7 +9,7 @@
     <!-- <li><a href="/scrapbook" {% if page.url contains "/scrapbook" %}class="active"{% endif %}>scrapbook</a></li> -->
     <li><a href="/albums" {% if page.url contains "/albums" %}class="active"{% endif %}>album</a></li>
     <!-- <li><a href="/diary" {% if page.url contains "/diary" %}class="active"{% endif %}>diary</a></li> -->
-    <li><a href="/diarypassword" {% if page.url contains "/diarypassword" %}class="active"{% endif %}>diary</a></li>
+    <li><a href="/diarypassword" {% if page.url contains "/diarypassword" or page.url contains "/sheep" %}class="active"{% endif %}>diary</a></li>
     <!-- you'll have to put some OR logic if you want the "diaries" to be underscored. has to contain "sheep123" -->
     <li><a href="/about" {% if page.url contains "/about" %}class="active"{% endif %}>about</a></li>
   </ul>

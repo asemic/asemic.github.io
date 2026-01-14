@@ -3,7 +3,6 @@ published: true
 title: balikbayan
 layout: post
 ---
-
 all of the oceans were once one.<br>
 your tears were once a Philippine typhoon,<br>
 water that suffocated nurseries and cemeteries alike,<br>
