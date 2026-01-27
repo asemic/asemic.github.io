@@ -19,7 +19,8 @@ Born and raised in Illinois, I'm now based in Brooklyn, NY and am currently a th
 
 When I'm not cramming for exams, I enjoy shooting film, reading tarot cards, and riding the New York City subway!<br><br> -->
 
-hi! I'm Sunny. I'm from Illinois, the part with all the cornfields. Now I live in New York. I'm a Leo Sun, a Pisces Moon, and a Libra Rising. I made this website from scratch, so I hope you like it. If you want the diary password, just text me (and if you know how to use GitHub, it's unencrypted on there). Thank you for the gift of your time.
+hi! I'm Sunny. I'm from Illinois, the part with all the cornfields. Now I live in New York. I'm a Leo Sun, a Pisces Moon, and a Libra Rising. I made this website from scratch, so I hope you like it. If you want the diary password, just text me (and if you know how to use GitHub, it's not too hard to find). 
+<br><br>Thank you for the gift of your time.
 	<li><center>☀️</center></li><br>
 	<li><center><i>pronouns: she/her/hers</i></center></li>
 <li><center><a href="https://www.are.na/sunny/">are.na</a></center></li>
