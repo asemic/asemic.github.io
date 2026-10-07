@@ -2,7 +2,6 @@
 layout: post
 title:  Riverbank
 date:   2019-02-18 12:00:00 -0600
-tags: [religion]
 summary: "At the height of my loneliness, I went to a three-day Asian Christian retreat in the backwoods of Missouri."
 genre: memoir
 ---
