@@ -22,7 +22,12 @@ Ultimately I think trans women have more in common with edtwt and bpd discord gi
 
 But uhh, I ran out of stuff I want to say for now. I’m a girlthing I project the thing-ness of it all on other trans women and it’s awful and bad and transmisogynistic of me and someday I will self-flagellate for this. But maybe at the end of the day we are all girls and we are all things and maybe there is no need to label where the girl ends and where the thing begins.
 
+---
+
 [1] and yes unfortunately i cringe much worse when the reclamation of male characteristics is intentional which is something i really have to unpack and it’s probably better for me not to analyze the whole butch lesbian thing and stay in my lane
+
 [2] puppygirl is ofc cuter and its the prototypical cute but sylvia has told me flatly and bluntly that shes not into it which stings but i understand why she would denounce a label that disavows agency or personhood.
+
 [3] this is just a roundabout way to avoid saying “socialized male” as that phrase gives me an ick
+
 [4] to this day it is still totally baffling to me because i saw alice (and still do) as totally genuinely beautiful.
