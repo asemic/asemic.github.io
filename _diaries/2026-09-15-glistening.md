@@ -2,7 +2,6 @@
 published: true
 layout: journal
 title: girlthing, glistening
-published: false
 ---
 
 well i mean. of course that's not all it is. transition is glistening river and whispering stream. it's sugar, spice, everything nice... when i was young i saw girls as myths. they were mystical, impossibly ethereal. floated on gossamer wings, scented like jasmine and vanilla, and adorned with glistening jewelry. in comparison i was like... like some kind of lowly ferret who had barely crawled out of the mud. my fur was caked in filth, or something. and the desire to become even the least bit like that was almost unthinkable to me: i could never fly. it was forbidden by biology, psychology, social norms. but when i learned it really was possible -- that i could embody that same spirit, and i could really become as beautiful as the butterflies, shimmer like iridescent feathers -- how could i not take that chance? how could i not stake everything on it? 
