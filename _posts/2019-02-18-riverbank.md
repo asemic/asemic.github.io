@@ -197,6 +197,3 @@ In an instant, we make eye contact, and suddenly I remember: the singing, the wa
 But he is looking at me with so, so much kindness. He smiles. I smile back. And absolved of my sins, I turn away.
 
 {% include divider.html %}
-
-_This piece was written in the spring of 2019 for a creative nonfiction class.
-Some names and identifying details have been changed to protect the privacy of individuals._
