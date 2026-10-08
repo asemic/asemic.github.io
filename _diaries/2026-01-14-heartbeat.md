@@ -1,7 +1,7 @@
 ---
 published: true
 layout: journal
-title: Quilt
+title: quilt
 ---
 
 Ear held to Sylvia's ribcage
@@ -10,9 +10,9 @@ Ear held to Sylvia's ribcage
 <br>like whispering spring, warm breeze.
 <br>
 <br>The persimmons will fall from their branches;
-<br>the autumn leaves go last. 
+<br>the autumn leaves will fall last. 
 <br>The blood will wash out of the mattress.
-<br>The tiger's year will pass.
+<br>The year of the tiger will pass.
 <br>
 <br>Our hair will turn gray with the seasons
 <br>Creases will fold by our eyes.
