@@ -67,7 +67,7 @@ collections:
     permalink: /albums/:name
   diaries:
     output: true
-    permalink: /sheep123/:name
+    permalink: /sheep12/:name
   diary_password:
     output: true
     permalink: /diary_password/:name
