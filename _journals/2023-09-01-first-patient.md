@@ -12,8 +12,8 @@ Good morning, Rosemarie,
 <br>
 <br>There you are on the table.
 <br>In my head, I’m giving you the script:
-<br>*Hi, I’m a medical student,
-<br>What brings you in today,* but I know
+<br>**Hi, I’m a medical student,
+<br>What brings you in today,** but I know
 <br>you aren’t speaking,
 <br>you couldn’t, even if you tried.
 <br>You don’t even know we’re here.
@@ -42,9 +42,9 @@ Good morning, Rosemarie,
 <br>that close to your warm, beating heart.
 <br>
 <br>I place the cloth back over your face
-<br>*How are you sleeping lately? Does pain ever wake you up at night?*
+<br>**How are you sleeping lately? Does pain ever wake you up at night?**
 <br>I cut clumsy through layers of fat
-<br>*How is your appetite? Three meals a day?*
+<br>**How is your appetite? Three meals a day?**
 <br>I slice the femoral artery in two,
 <br>and I kill you a second time.
 <br>
